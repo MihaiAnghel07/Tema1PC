@@ -1,0 +1,17 @@
+Programul foloseste 5 functii cu ajutorul carora citeste,prelucreaza,compara,converteste sau fiseaza datele.
+Pentru task-ul 0 se face o simpla afisare;
+Task-ul 1 se rezolva cu ajutorul functiei creare_zecimal si astfel se afiseaza MSK_2 in format zecimal;
+In task-ul 2 se face afisarea MSK_1 in baza 8/16 direct cu printf();
+La task-ul 3, se calculeaza adresa de retea pentru IP_1 conform ipotezei si se afiseaza;
+La task-ul 4, se calculeaza adresa de broadcast pentru IP_1 folosind o variabila complement;
+Pentru task-ul 5 se calculeaza adresele de retea si se compara cu functia creata compare();
+In task-ul 6 se verifica daca exista un bit de 0 care precede un bit de 1 si se afiseaza daca e corecta sau nu;
+Pentru task-ul 7, in functie de raspunsul de la task-ul 6 , se afiseaza sau se calculeaza versiunea corecta a mastii MSK_1, egaland masca cu 0 in momentul gasiri celui mai semnificativ bit de 0 si egaland bitii care preced cel mai smenificativ bit de 0 cu 1;
+in task-ul 8 se parcurg toti bitii adresei IP_1 si se afiseaza fiecare octet in format binar;
+In task-ul 9 se calculeaza masca de retea pentru fiecare adresa din cele N citite si se compara adresele de retea si in cazul in care corespund se afiseaza indicele adresei i;
+
+
+
+
+
+
